@@ -11,3 +11,12 @@ elif a >= 20:
         print("a!=20")
 else:
     print("other")
+
+i = 0
+while i < 10:
+    print("i=", i)
+    i += 1
+
+name = 'python'
+for i in name:
+    print(i)
