@@ -1,1 +1,4 @@
 .idea/
+aenv/*
+aenv/
+/aenv
